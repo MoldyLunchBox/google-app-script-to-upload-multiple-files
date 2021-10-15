@@ -1,7 +1,7 @@
 ### there are three variations of this app in the repository, 
-## upload multiple files to google drive by creating a folder named using the username and email provided by user input
-## upload multiple files to google drives by creating a folder named using the username and email provided by the database
-## upload multiple files to google drives by creating a folder named using the username and email, and a file that contains log of file names plus a description provided by user input
+### upload multiple files to google drive by creating a folder named using the username and email provided by user input
+### upload multiple files to google drives by creating a folder named using the username and email provided by the database
+### upload multiple files to google drives by creating a folder named using the username and email, and a file that contains log of file names plus a description provided by user input
 
 i will explain each one and how to use it
 #
